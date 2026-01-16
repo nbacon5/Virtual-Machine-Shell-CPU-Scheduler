@@ -13,3 +13,5 @@ A virtual shell for executing programs and managing their state.
 # Run:
 - Start the virtual shell with ```./anav```
 - Instructions for using the shell are displayed in the terminal
+<img width="420" height="205" alt="Screenshot_20260115_205450" src="https://github.com/user-attachments/assets/24e219d6-ce7f-4a95-b894-ced08c31ec7e" />
+
