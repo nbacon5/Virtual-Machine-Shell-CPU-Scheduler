@@ -1,10 +1,3 @@
-/* This is the only file you should update and submit. */
-
-/* Fill in your Name and GNumber in the following two comment fields
- * Name: Nicholas Bacon
- * GNumber: G01331852
- */
-
 #include <sys/wait.h>
 #include "../inc/logging.h"
 #include "../inc/anav.h"
